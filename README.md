@@ -10,6 +10,19 @@ I'm also the curator for [A Minute on the Mic](https://aminuteonthemic.com/). We
 
 You can check out [my blog](https://nimbinatus.com), but I'm notoriously bad at keeping it updated. You probably would have better luck [following me on Dev.to](https://dev.to/nimbinatus) :)
 
+<div>
+  <a href="https://dev.to/nimbinatus">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Laura Santamaria's DEV Profile" height="30"/>
+  </a>
+  <a href="https://twitter.com/nimbinatus"><img src="https://img.shields.io/twitter/follow/nimbinatus?label=Follow&style=for-the-badge&logo=twitter&color=informational" alt="Twitter"></a>
+  <a href="https://nimbinatus.com">
+    <img src="https://nimbinatus.com/static/avatar.png" alt="Laura's blog" height="30"/>
+  </a>
+  <a href="https://speaking.nimbinatus.com">
+    <img src="https://on.notist.cloud/assets/svg/notist.svg" alt="Laura's Notist Profile" height="30"/>
+  </a>
+</div>
+
 <!--
 **nimbinatus/nimbinatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,10 +1,14 @@
-### s/Developer/DevOps/g Advocate @LogDNA
+### $ whoami
+
+I'm a developer advocate and a devops fanatic. 
 
 You'll often find me at my local meetups like [Austin DevOps](https://github.com/Austin-Devops) and Cloud Austin. Want to know where I'm going to be next or curious regarding what I talk about? I've got my recent talks up and my upcoming talks on [my speaking portfolio](https://speaking.nimbinatus.com).
 
 Need to get in touch? The best way to do that is to find me on [Twitter](https://twitter.com/nimbinatus) or contact me through the email address I have here on GitHub.
 
-I'm also the curator for [A Minute on the Mic](https://aminuteonthemic.com/). We're on hiatus for a little while as a lot of folks are a bit swamped right now. Want to be on A Minute on the Mic, though? Come talk with me! 
+I'm also the curator for [A Minute on the Mic](https://aminuteonthemic.com/). We're on hiatus for a little while as a lot of folks are a bit swamped right now. Want to be on A Minute on the Mic, though? Come talk with me!
+
+You can check out [my blog](https://nimbinatus.com), but I'm notoriously bad at keeping it updated. You probably would have better luck [following me on Dev.to](https://dev.to/nimbinatus) :)
 
 <!--
 **nimbinatus/nimbinatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

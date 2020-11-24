@@ -2,7 +2,7 @@
 
 I'm a developer advocate and a devops fanatic. 
 
-You'll often find me at my local meetups like [Austin DevOps](https://github.com/Austin-Devops) and Cloud Austin. Want to know where I'm going to be next or curious regarding what I talk about? I've got my recent talks up and my upcoming talks on [my speaking portfolio](https://speaking.nimbinatus.com).
+You'll often find me at my local meetups like [Austin DevOps](https://github.com/Austin-Devops) and [Cloud Austin](https://www.meetup.com/CloudAustin/). Want to know where I'm going to be next or curious regarding what I talk about? I've got my recent talks up and my upcoming talks on [my speaking portfolio](https://speaking.nimbinatus.com).
 
 Need to get in touch? The best way to do that is to find me on [Twitter](https://twitter.com/nimbinatus) or contact me through the email address I have here on GitHub.
 

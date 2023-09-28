@@ -9,7 +9,7 @@ Need to get in touch? The best way to do that is to use [my Linktree](https://li
 <div>
   <a href="https://linktr.ee/nimbinatus"><img src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" height=30 alt="Laura's Linktree"/></a>
   <a href="https://dev.to/nimbinatus"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Laura's DEV Profile" height=30/></a>
-  <a href=""><img src="https://img.shields.io/mastodon/follow/109245877985611377?domain=https%3A%2F%2Fhachyderm.io&style=social" alt="Laura's Mastodon"></a>
+  <a href="https://hachyderm.io/nimbinatus"><img src="https://img.shields.io/mastodon/follow/109245877985611377?domain=https%3A%2F%2Fhachyderm.io&style=social" alt="Laura's Mastodon"></a>
   <a href="https://twitter.com/nimbinatus"><img src="https://img.shields.io/twitter/follow/nimbinatus" alt="Laura's Twitter"></a>
   <a href="https://nimbinatus.com"><img src="https://nimbinatus.com/static/avatar.png" alt="Laura's blog" height=30/></a>
   <a href="https://speaking.nimbinatus.com"><img src="https://on.notist.cloud/assets/svg/notist.svg" alt="Laura's Notist Profile" height=30/></a>

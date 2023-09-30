@@ -7,12 +7,16 @@ You'll often find me at my local meetups like [Austin DevOps](https://github.com
 Need to get in touch? The best way to do that is to use [my Linktree](https://linktr.ee/nimbinatus).
 
 <div>
-  <a href="https://linktr.ee/nimbinatus"><img src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" height=30 alt="Laura's Linktree"/></a>
-  <a href="https://dev.to/nimbinatus"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Laura's DEV Profile" height=30/></a>
-  <a href="https://hachyderm.io/nimbinatus"><img src="https://img.shields.io/mastodon/follow/109245877985611377?domain=https%3A%2F%2Fhachyderm.io&style=social" alt="Laura's Mastodon"></a>
-  <a href="https://twitter.com/nimbinatus"><img src="https://img.shields.io/twitter/follow/nimbinatus" alt="Laura's Twitter"></a>
-  <a href="https://nimbinatus.com"><img src="https://nimbinatus.com/static/avatar.png" alt="Laura's blog" height=30/></a>
-  <a href="https://speaking.nimbinatus.com"><img src="https://on.notist.cloud/assets/svg/notist.svg" alt="Laura's Notist Profile" height=30/></a>
+  <a href="https://linktr.ee/nimbinatus"><img src="https://img.shields.io/badge/Linktree-1de9b6?logo=linktree&logoColor=1de9b6&label=Find%20Me&color=black" height=30 alt="Laura's Linktree"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://nimbinatus.com"><img src="https://img.shields.io/badge/Read_more-222222?logo=githubpages&logoColor=white&label=Blog" height=30 alt="Laura's Blog"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/nimbinatus"><img src="https://img.shields.io/badge/Dev.to-white?logo=dev.to&logoColor=white&label=Find%20me%20on%20Dev.To" height=30 alt="Laura's DEV Profile"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://speaking.nimbinatus.com"><img src="https://img.shields.io/badge/Notist-white?logo=notist&logoColor=white&label=Conferences" alt="Laura's Notist Profile" height=30/></a>
+  <br/>
+  <a href="https://bsky.app/profile/nimbinatus.bsky.social"><img src="https://img.shields.io/badge/Bluesky-white?style=social&logoColor=white&label=Follow%20me" height=30 alt="Laura's Bluesky"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://hachyderm.io/nimbinatus"><img src="https://img.shields.io/mastodon/follow/109245877985611377?domain=https%3A%2F%2Fhachyderm.io&style=social" height=30 alt="Laura's Mastodon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lauraasantamaria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=b0A66C2&label=Follow%20me" height=30 alt="Laura's LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.threads.net/@nimbinatus"><img src="https://img.shields.io/badge/Threads-white?style=social&logo=threads&logoColor=black&label=Follow%20me" height=30 alt="Laura's Threads"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/nimbinatus"><img src="https://img.shields.io/twitter/follow/nimbinatus" height=30 alt="Laura's Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <!--

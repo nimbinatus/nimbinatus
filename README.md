@@ -16,7 +16,6 @@ Need to get in touch? The best way to do that is to use [my Linktree](https://li
   <a href="https://hachyderm.io/nimbinatus"><img src="https://img.shields.io/mastodon/follow/109245877985611377?domain=https%3A%2F%2Fhachyderm.io&style=social" height=20 alt="Laura's Mastodon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lauraasantamaria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=b0A66C2&label=Follow%20me" height=20 alt="Laura's LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.threads.net/@nimbinatus"><img src="https://img.shields.io/badge/Threads-white?style=social&logo=threads&logoColor=black&label=Follow%20me" height=20 alt="Laura's Threads"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/nimbinatus"><img src="https://img.shields.io/twitter/follow/nimbinatus" height=20 alt="Laura's Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <!--

@@ -8,14 +8,11 @@ Need to get in touch? The best way to do that is to use [my Linktree](https://li
 
 <div>
   <a href="https://linktr.ee/nimbinatus"><img src="https://img.shields.io/badge/Linktree-1de9b6?logo=linktree&logoColor=1de9b6&label=Find%20Me&color=black" height=20 alt="Laura's Linktree"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://nimbinatus.com"><img src="https://img.shields.io/badge/Read_more-222222?logo=githubpages&logoColor=white&label=Blog" height=20 alt="Laura's Blog"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/nimbinatus"><img src="https://img.shields.io/badge/Dev.to-white?logo=dev.to&logoColor=white&label=Find%20me%20on%20Dev.To" height=20 alt="Laura's DEV Profile"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://speaking.nimbinatus.com"><img src="https://img.shields.io/badge/Notist-white?logo=notist&logoColor=white&label=Conferences" alt="Laura's Notist Profile" height=20/></a>
   <br/>
   <a href="https://bsky.app/profile/nimbinatus.bsky.social"><img src="https://img.shields.io/badge/Bluesky-white?style=social&logo=bluesky&logoColor=blue&label=Follow%20me" height=20 alt="Laura's Bluesky"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hachyderm.io/nimbinatus"><img src="https://img.shields.io/mastodon/follow/109245877985611377?domain=https%3A%2F%2Fhachyderm.io&style=social" height=20 alt="Laura's Mastodon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lauraasantamaria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=b0A66C2&label=Follow%20me" height=20 alt="Laura's LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.threads.net/@nimbinatus"><img src="https://img.shields.io/badge/Threads-white?style=social&logo=threads&logoColor=black&label=Follow%20me" height=20 alt="Laura's Threads"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <!--

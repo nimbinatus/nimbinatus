@@ -10,7 +10,7 @@ Need to get in touch? The best way to do that is to use [my Linktree](https://li
   <a href="https://linktr.ee/nimbinatus"><img src="https://img.shields.io/badge/Linktree-1de9b6?logo=linktree&logoColor=1de9b6&label=Find%20Me&color=black" height=20 alt="Laura's Linktree"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://speaking.nimbinatus.com"><img src="https://img.shields.io/badge/Notist-white?logo=notist&logoColor=white&label=Conferences" alt="Laura's Notist Profile" height=20/></a>
   <br/>
-  <a href="https://bsky.app/profile/nimbinatus.bsky.social"><img src="https://img.shields.io/badge/Bluesky-white?style=social&logo=bluesky&logoColor=blue&label=Follow%20me" height=20 alt="Laura's Bluesky"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/nimbinatus.bsky.social"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic.api.bsky.app%2Fxrpc%2Fapp.bsky.actor.getProfile%2F%3Factor%3Dnimbinatus.bsky.social&query=%24.followersCount&style=social&logo=bluesky&label=Follow%20%40nimbinatus.bsky.social"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hachyderm.io/nimbinatus"><img src="https://img.shields.io/mastodon/follow/109245877985611377?domain=https%3A%2F%2Fhachyderm.io&style=social" height=20 alt="Laura's Mastodon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lauraasantamaria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=b0A66C2&label=Follow%20me" height=20 alt="Laura's LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>

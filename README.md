@@ -2,7 +2,7 @@
 
 I'm a developer advocate and a devops fanatic. 
 
-You'll often find me at my local meetups like [Austin DevOps](https://github.com/Austin-Devops) and [Cloud Austin](https://www.meetup.com/CloudAustin/). Want to know where I'm going to be next or curious regarding what I talk about? I've got my recent talks up and my upcoming talks on [my speaking portfolio](https://speaking.nimbinatus.com).
+You'll often find me at my local meetups like [Austin DevOps](https://github.com/Austin-Devops) and [Cloud Austin](https://www.meetup.com/CloudAustin/) or co-organizing and hosting events like [DevOpsDays Austin](https://devopsdays.org/austin) or [PyTexas](https://pytexas.org/2025). Want to know where I'm going to be next or curious regarding what I talk about? I've got my recent talks up and my upcoming talks on [my speaking portfolio](https://speaking.nimbinatus.com).
 
 Need to get in touch? The best way to do that is to use [my Linktree](https://linktr.ee/nimbinatus).
 
@@ -11,7 +11,7 @@ Need to get in touch? The best way to do that is to use [my Linktree](https://li
   <a href="https://speaking.nimbinatus.com"><img src="https://img.shields.io/badge/Notist-white?logo=notist&logoColor=white&label=Conferences" alt="Laura's Notist Profile" height=20/></a>
   <br/>
   <a href="https://bsky.app/profile/nimbinatus.bsky.social"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpublic.api.bsky.app%2Fxrpc%2Fapp.bsky.actor.getProfile%2F%3Factor%3Dnimbinatus.bsky.social&query=%24.followersCount&style=social&logo=bluesky&label=Follow%20%40nimbinatus.bsky.social"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://hachyderm.io/nimbinatus"><img src="https://img.shields.io/mastodon/follow/109245877985611377?domain=https%3A%2F%2Fhachyderm.io&style=social" height=20 alt="Laura's Mastodon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://hachyderm.io/@nimbinatus"><img src="https://img.shields.io/mastodon/follow/109245877985611377?domain=https%3A%2F%2Fhachyderm.io&style=social" height=20 alt="Laura's Mastodon"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lauraasantamaria"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=b0A66C2&label=Follow%20me" height=20 alt="Laura's LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 

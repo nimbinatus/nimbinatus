@@ -6,7 +6,7 @@ You'll often find me at my local meetups like [Cloud Austin](https://www.meetup.
 
 If you're an Austin local and want to find out about all of the meetups and events in the area, join our Discord! The Austin Meetups Discord is a spot to chat about Austin tech, and meetup organizers and conference organizers can post their events, ask for speakers or volunteers, and otherwise collaborate together. [--> Join here <--](https://discord.com/invite/uGM7PB4uxP)
 
-![Discord](https://img.shields.io/discord/827551927969251441)
+![Discord](https://img.shields.io/discord/827551927969251441?logo=discord&logoColor=white&label=Austin%20Meetups%20Discord&color=5865F2)
 <!--<div><iframe src="https://discord.com/widget?id=827551927969251441&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></div>-->
 
 Need to get in touch? The best way to do that is to use [my Linktree](https://linktr.ee/nimbinatus).

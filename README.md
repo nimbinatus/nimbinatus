@@ -4,6 +4,8 @@ I'm a community architect, developer advocate, and a DevOps fan.
 
 You'll often find me at my local meetups like [Cloud Austin](https://www.meetup.com/CloudAustin/) or co-organizing and hosting events like [DevOpsDays Austin](https://devopsdays.org/austin) or [PyTexas](https://pytexas.org/2025). Want to know where I'm going to be next or curious regarding what I talk about? I've got my recent talks up and my upcoming talks on [my speaking portfolio](https://speaking.nimbinatus.com).
 
+If you're an Austin local and want to find out about all of the meetups and events in the area, join our Discord! The Austin Meetups Discord is a spot to chat about Austin tech, and meetup organizers and conference organizers can post their events, ask for speakers or volunteers, and otherwise collaborate together. [--> Join here <--](https://discord.com/invite/uGM7PB4uxP)
+
 Need to get in touch? The best way to do that is to use [my Linktree](https://linktr.ee/nimbinatus).
 
 <div>

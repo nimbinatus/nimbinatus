@@ -4,9 +4,9 @@ I'm a community architect, developer advocate, and a DevOps fan.
 
 You'll often find me at my local meetups like [Cloud Austin](https://www.meetup.com/CloudAustin/) or co-organizing and hosting events like [DevOpsDays Austin](https://devopsdays.org/austin) or [PyTexas](https://pytexas.org/2025). Want to know where I'm going to be next or curious regarding what I talk about? I've got my recent talks up and my upcoming talks on [my speaking portfolio](https://speaking.nimbinatus.com).
 
-If you're an Austin local and want to find out about all of the meetups and events in the area, join our Discord! The Austin Meetups Discord is a spot to chat about Austin tech, and meetup organizers and conference organizers can post their events, ask for speakers or volunteers, and otherwise collaborate together. [--> Join here <--](https://discord.com/invite/uGM7PB4uxP)
+If you're an Austin local and want to find out about all of the meetups and events in the area, join our Discord! The Austin Meetups Discord is a spot to chat about Austin tech, and meetup organizers and conference organizers can post their events, ask for speakers or volunteers, and otherwise collaborate together.
 
-![Discord](https://img.shields.io/discord/827551927969251441?logo=discord&logoColor=white&label=Austin%20Meetups%20Discord&color=5865F2)
+[![Discord](https://img.shields.io/discord/827551927969251441?logo=discord&logoColor=white&label=Join%20the%20Austin%20Meetups%20Discord&color=5865F2)](https://discord.com/invite/uGM7PB4uxP)
 <!--<div><iframe src="https://discord.com/widget?id=827551927969251441&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></div>-->
 
 Need to get in touch? The best way to do that is to use [my Linktree](https://linktr.ee/nimbinatus).

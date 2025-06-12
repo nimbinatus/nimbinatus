@@ -1,8 +1,8 @@
 ### $ whoami
 
-I'm a developer advocate and a devops fanatic. 
+I'm a community architect, developer advocate, and a DevOps fan.
 
-You'll often find me at my local meetups like [Austin DevOps](https://github.com/Austin-Devops) and [Cloud Austin](https://www.meetup.com/CloudAustin/) or co-organizing and hosting events like [DevOpsDays Austin](https://devopsdays.org/austin) or [PyTexas](https://pytexas.org/2025). Want to know where I'm going to be next or curious regarding what I talk about? I've got my recent talks up and my upcoming talks on [my speaking portfolio](https://speaking.nimbinatus.com).
+You'll often find me at my local meetups like [Cloud Austin](https://www.meetup.com/CloudAustin/) or co-organizing and hosting events like [DevOpsDays Austin](https://devopsdays.org/austin) or [PyTexas](https://pytexas.org/2025). Want to know where I'm going to be next or curious regarding what I talk about? I've got my recent talks up and my upcoming talks on [my speaking portfolio](https://speaking.nimbinatus.com).
 
 Need to get in touch? The best way to do that is to use [my Linktree](https://linktr.ee/nimbinatus).
 
